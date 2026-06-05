@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write ."
+    “start:prod”: “node dist/src/main”
   },
   "dependencies": {
     "@cloudflare/vite-plugin": "^1.25.5",
